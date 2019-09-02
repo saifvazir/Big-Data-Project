@@ -1,0 +1,2 @@
+# Big-Data-Project
+Big Data Analytics project at Stony Brook University. Created scripts to download multiple .tiff files from http://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.6.html. Created python notebook that uses PySpark and HDFS to store these files and analyze the images for deforestation using tiling. Used a pretrained Alexnet model as a feature extractor to perform clustering.
